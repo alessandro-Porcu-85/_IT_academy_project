@@ -1,4 +1,2 @@
 
-1-Hola, he creado el fichero!
-2-
-3- Vuelvo a master(branch) y guardo nuevos cambios!
+1-Hola, he borrado las rigas bajas!
